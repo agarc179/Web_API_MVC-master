@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\Models\\TodoContext.cs",
+  "PreviewInSolutionExplorer": false
+}
